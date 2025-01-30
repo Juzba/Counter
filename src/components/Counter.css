@@ -1,0 +1,29 @@
+.counter {
+    box-sizing: border-box;
+	width: 900px;
+	margin: 0px auto;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.counter h1 {
+	font-size: 70px;
+	color: #f22613;
+}
+
+.counter h3 {
+	font-size: 50px;
+	color: #f2f2f2;
+}
+
+.counter button {
+	height: 60px;
+	width: 140px;
+	margin: 10px;
+	border: solid #f22613 1px;
+	background-color: #048c7f;
+	color: #f2f2f2;
+	font-size: 21px;
+    border-radius: 10px;
+
+}
